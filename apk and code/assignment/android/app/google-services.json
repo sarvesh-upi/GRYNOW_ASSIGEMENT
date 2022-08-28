@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "729325964245",
+    "project_id": "tinderlikeapp-d4d7d",
+    "storage_bucket": "tinderlikeapp-d4d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729325964245:android:83e89cdaf556edffb58b5c",
+        "android_client_info": {
+          "package_name": "com.assignment.lilacnfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729325964245-o0pubn586eagu9et569jm8lmip0rj1at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment.lilacnfotech",
+            "certificate_hash": "2b18d73abbdf71a1d191a40c7f0fee6b52b19d23"
+          }
+        },
+        {
+          "client_id": "729325964245-0fite1vphgovp2fnfohfj412tjsp712h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKhOXtbI2kZXl-0R68yCJMQQxfKZuzfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729325964245-0fite1vphgovp2fnfohfj412tjsp712h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729325964245-4ri28grgj8ke682k356klco0uk1stm86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.encyptCache"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729325964245:android:6124ee6784793773b58b5c",
+        "android_client_info": {
+          "package_name": "com.rojarose.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729325964245-95i4k44fsgr5bi24cl41c4n2cqkqvmj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rojarose.datingapp",
+            "certificate_hash": "2b18d73abbdf71a1d191a40c7f0fee6b52b19d23"
+          }
+        },
+        {
+          "client_id": "729325964245-0fite1vphgovp2fnfohfj412tjsp712h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKhOXtbI2kZXl-0R68yCJMQQxfKZuzfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729325964245-0fite1vphgovp2fnfohfj412tjsp712h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729325964245-4ri28grgj8ke682k356klco0uk1stm86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.encyptCache"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
